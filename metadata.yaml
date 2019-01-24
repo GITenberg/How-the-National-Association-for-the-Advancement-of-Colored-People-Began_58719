@@ -1,0 +1,23 @@
+_repo: How-the-National-Association-for-the-Advancement-of-Colored-People-Began_58719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ovington, Mary White
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '36204'
+    url: http://www.gutenberg.org/2009/agents/36204
+    wikipedia: http://en.wikipedia.org/wiki/Mary_White_Ovington
+description: ''
+gutenberg_issued: '2019-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How the National Association for the Advancement of Colored People Began
+url: http://www.gutenberg.org/ebooks/58719
